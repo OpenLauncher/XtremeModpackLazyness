@@ -1,0 +1,9 @@
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\bin\Release\XtremeModpackLazyness.exe
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\bin\Release\XtremeModpackLazyness.pdb
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.Form1.resources
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.Properties.Resources.resources
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.csproj.GenerateResource.Cache
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.exe
+C:\Users\Stuart\AppData\Local\Temporary Projects\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.pdb
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.exe
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Release\XtremeModpackLazyness.pdb

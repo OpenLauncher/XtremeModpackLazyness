@@ -1,0 +1,34 @@
+
+<version>
+  <pack>
+        
+		<version>0.0.1</version>
+		<minecraft>1.7.10</minecraft>
+        <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
+        <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
+        <memory>1048</memory>
+        <permgen>128</permgen>
+        
+    </pack>
+
+    <libraries>
+        <library url="files/libraries/launchwrapper-1.11.jar" file="launchwrapper-1.11.jar"  download="server" server="net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar" />
+        <library url="files/libraries/asm-all-5.0.3.jar" file="asm-all-5.0.3.jar"  download="server" server="org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"  />
+        <library url="files/libraries/config-1.2.1.jar" file="config-1.2.1.jar"  download="server" server="com/typesafe/config/1.2.1/config-1.2.1.jar" />
+        <library url="files/libraries/authlib-1.5.13.jar" file="authlib-1.5.13.jar"  download="server"  />       
+        <library url="files/libraries/commons-lang3-3.2.1.jar" file="commons-lang3-3.2.1.jar" download="server"  />
+        <library url="files/libraries/guava-16.0.jar" file="guava-16.0.jar"  download="server" />
+        <library url="files/libraries/realms-1.2.9.jar" file="realms-1.2.9.jar"  download="server"  />       
+        <library url="files/libraries/scala-actors-migration_2.11-1.1.0.jar" file="scala-actors-migration_2.11-1.1.0.jar" download="server" server="org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"  />
+        <library url="files/libraries/scala-compiler-2.11.1.jar" file="scala-compiler-2.11.1.jar"  download="server" server="org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar" />
+        <library url="files/libraries/scala-continuations-library_2.11-1.0.2.jar" file="scala-continuations-library_2.11-1.0.2.jar" download="server" server="org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar" />       
+        <library url="files/libraries/scala-continuations-plugin_2.11.1-1.0.2.jar" file="scala-continuations-plugin_2.11.1-1.0.2.jar"  download="server" server="org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"/>
+        <library url="files/libraries/scala-library-2.11.1.jar" file="scala-library-2.11.1.jar"  download="server" server="org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar" />
+        <library url="files/libraries/scala-parser-combinators_2.11-1.0.1.jar" file="scala-parser-combinators_2.11-1.0.1.jar"  download="server" server="org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"/>       
+        <library url="files/libraries/scala-reflect-2.11.1.jar" file="scala-reflect-2.11.1.jar"  download="server" server="org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar" />
+        <library url="files/libraries/scala-swing_2.11-1.0.1.jar" file="scala-swing_2.11-1.0.1.jar"  download="server" server="org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar" />
+        <library url="files/libraries/scala-xml_2.11-1.0.2.jar" file="scala-xml_2.11-1.0.2.jar"  download="server" server="org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar" />
+        <library url="files/libraries/lzma-0.0.1.jar" file="lzma-0.0.1.jar"  download="server" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" />
+        <library url="files/libraries/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar"  download="server" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"  />  
+    </libraries>
+	<mods>

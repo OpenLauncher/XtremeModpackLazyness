@@ -1,0 +1,8 @@
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\bin\Debug\XtremeModpackLazyness.exe
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\bin\Debug\XtremeModpackLazyness.pdb
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.Form1.resources
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.Properties.Resources.resources
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.csproj.GenerateResource.Cache
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.exe
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.pdb
+C:\Users\Stuart\documents\visual studio 2010\Projects\XtremeModpackLazyness\XtremeModpackLazyness\obj\x86\Debug\XtremeModpackLazyness.csprojResolveAssemblyReference.cache
