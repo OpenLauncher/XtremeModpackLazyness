@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtremeModpackLazyness", "XtremeModpackLazyness.csproj", "{6B403CB7-A140-4B14-B907-16949E1DFA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B403CB7-A140-4B14-B907-16949E1DFA22}.Debug|x86.ActiveCfg = Debug|x86
+		{6B403CB7-A140-4B14-B907-16949E1DFA22}.Debug|x86.Build.0 = Debug|x86
+		{6B403CB7-A140-4B14-B907-16949E1DFA22}.Release|x86.ActiveCfg = Release|x86
+		{6B403CB7-A140-4B14-B907-16949E1DFA22}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XtremeModpackLazyness.csproj
+	EndGlobalSection
+EndGlobal
